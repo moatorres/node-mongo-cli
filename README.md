@@ -24,15 +24,15 @@ $ npm link
 
 #### Commands
 
-- List Cameras: `$ node-mongo-cli list`
+- List Cameras: `node-mongo-cli list`
 
-- Add Camera: `$ node-mongo-cli add`
+- Add Camera: `node-mongo-cli add`
 
-- Find Camera by Model (string): `$ node-mongo-cli find Canon`
+- Find Camera by Model (string): `node-mongo-cli find Canon`
 
-- Update Camera (ObjectId): `$ node-mongo-cli update 5f6636607a225da7614ab8a7`
+- Update Camera (ObjectId): `node-mongo-cli update 5f6636607a225da7614ab8a7`
 
-- Remove Camera (ObjectId): `$ node-mongo-cli remove 5f6636607a225da7614ab8a7`
+- Remove Camera (ObjectId): `node-mongo-cli remove 5f6636607a225da7614ab8a7`
 
 ### Author
 
