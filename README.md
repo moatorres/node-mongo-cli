@@ -24,7 +24,10 @@ $ npm link
 
 #### Commands
 
-- List Cameras: ```sh node-mongo-cli list```
+- List Cameras
+```sh 
+node-mongo-cli list
+```
 
 - Add Camera: ```sh node-mongo-cli add```
 
