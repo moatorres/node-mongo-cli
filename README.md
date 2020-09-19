@@ -26,32 +26,28 @@ $ npm link
 
 ### Commands
 
-List Cameras (list or l)
-```sh
+
+```
+// List Cameras
+
 $ node-mongo-cli list
-```
 
-Find Camera (find or f)
-```sh
-$ node-mongo-cli find [MODEL]
-```
+// Add Camera
 
-Add Camera (add or a)
-```sh
 $ node-mongo-cli add
-```
 
-Update Camera (update or u)
-```sh
-$ node-mongo-cli update [ID]
-```
+// Find Camera by Model (string)
 
-Remove Camera (remove or r)
-```sh
-$ node-mongo-cli remove [ID]
-```
+$ node-mongo-cli find Canon
 
-## App Info
+// Update Camera (ObjectId)
+
+$ node-mongo-cli update 5f6636607a225da7614ab8a7
+
+// Remove Camera (ObjectId)
+
+$ node-mongo-cli remove 5f6636607a225da7614ab8a7
+```
 
 ### Author
 
