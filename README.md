@@ -1,6 +1,6 @@
 <sub>[node-mongo-cli](https://github.com/moatorres/node-mongo-cli)</sub>
 
-## Node Mongo CLI 📡 
+## 🧰 Node Mongo CLI
 
 Node CLI Application example for managing cameras on MongoDB Atlas. Uses Mongoose, Commander.js and Inquirer.js
 
