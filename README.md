@@ -56,3 +56,6 @@ node-mongo-cli remove 5f6636607a225da7614ab8a7
 ### License
 
 This project is licensed under the MIT License
+
+<sub><sup>Made with ❤️ by [Moa](https://github.com/moatorres) at [Hoxlux®](https://github.com/hoxlux)</sup></sub>
+
