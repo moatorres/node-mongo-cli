@@ -6,6 +6,8 @@ Node CLI Application example for interacting with MongoDB Atlas built with Mongo
 
 `Version 1.0.0`
 
+![node cli mongo demo](https://i.imgur.com/dKgvrdV.gif)
+
 ## Usage
 
 ### Installation
