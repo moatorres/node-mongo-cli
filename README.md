@@ -1,6 +1,10 @@
 <sub>[node-mongo-cli](https://github.com/moatorres/node-mongo-cli)</sub>
 
+<<<<<<< HEAD
 ## ⚡️ Node Mongo CLI
+=======
+## 🧰 Node Mongo CLI
+>>>>>>> 64ba654dfaba4b5d150fe62905a5f55d9d4f18cd
 
 Node CLI Application example for interacting with MongoDB Atlas built with Mongoose, Commander.js and Inquirer.js
 
@@ -63,3 +67,6 @@ node-mongo-cli remove 5f6636607a225da7614ab8a7
 ### License
 
 This project is licensed under the MIT License
+
+<sub><sup>Made with ❤️ by [Moa](https://github.com/moatorres) at [Hoxlux®](https://github.com/hoxlux)</sup></sub>
+
