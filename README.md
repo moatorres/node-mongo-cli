@@ -1,8 +1,8 @@
 <sub>[node-mongo-cli](https://github.com/moatorres/node-mongo-cli)</sub>
 
-## Node Mongo CLI 📡 
+## ⚡️ Node Mongo CLI
 
-Node CLI Application example for managing cameras on MongoDB Atlas. Uses Mongoose, Commander.js and Inquirer.js
+Node CLI Application example for interacting with MongoDB Atlas built with Mongoose, Commander.js and Inquirer.js
 
 `Version 1.0.0`
 
@@ -24,28 +24,35 @@ $ npm link
 
 ## Commands
 
+In this example we'll interact with a camera inventory.
+
 ### **List Cameras**
-```sh 
+
+```sh
 node-mongo-cli list
 ```
 
 ### **Add Camera**
-```sh 
+
+```sh
 node-mongo-cli add
 ```
 
 ### **Find Camera by Model (string)**
-```sh 
+
+```sh
 node-mongo-cli find Canon
 ```
 
 ### **Update Camera (ObjectId)**
-```sh 
+
+```sh
 node-mongo-cli update 5f6636607a225da7614ab8a7
 ```
 
 ### **Remove Camera (ObjectId)**
-```sh 
+
+```sh
 node-mongo-cli remove 5f6636607a225da7614ab8a7
 ```
 
