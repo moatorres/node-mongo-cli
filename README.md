@@ -4,9 +4,7 @@
 
 Node CLI Application example for interacting with MongoDB Atlas built with Mongoose, Commander.js and Inquirer.js
 
-`Version 1.0.0`
-
-![node cli mongo demo](https://i.imgur.com/dKgvrdV.gif)
+<sub>`Version 1.0.0`</sub>
 
 ## Usage
 
